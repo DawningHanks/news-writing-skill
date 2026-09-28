@@ -101,4 +101,4 @@ news-writing-skill/
 
 ## 许可
 
-待定（Licence TBD）。
+MIT License，详见 [LICENSE](LICENSE)。
